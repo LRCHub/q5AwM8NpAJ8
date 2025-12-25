@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "DILEMMA",
+  "base_artist": "INI",
+  "createdAt": "2025-12-25T09:06:42.929729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dilemma",
+      "artist": "Nelly feat. Kelly Rowland",
+      "has_synced": true,
+      "path": "select/01_Dilemma_Nelly_feat._Kelly_Rowland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dilemma (Feat. Kelly Rowland)",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/02_Dilemma_(Feat._Kelly_Rowland)_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dilemma",
+      "artist": "Sigma",
+      "has_synced": true,
+      "path": "select/03_Dilemma_Sigma.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dilemma",
+      "artist": "Sigma",
+      "has_synced": true,
+      "path": "select/04_Dilemma_Sigma.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Rival's Dilemma (feat. Troy Donockly, Marko Hietala)",
+      "artist": "Ayreon feat. Marko Hietala & Troy Donockly",
+      "has_synced": true,
+      "path": "select/05_The_Rival's_Dilemma_(feat._Troy_Donockly,_Marko_Hietala)_Ayreon_feat._Marko_Hietala_&_Troy_Donockly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Punky's Dilemma",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/06_Punky's_Dilemma_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Punky's Dilemma",
+      "artist": "Simon & Garfunkel",
+      "has_synced": false,
+      "path": "select/07_Punky's_Dilemma_Simon_&_Garfunkel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dental Hygiene Dilemma",
+      "artist": "The Mothers Of Invention",
+      "has_synced": false,
+      "path": "select/08_Dental_Hygiene_Dilemma_The_Mothers_Of_Invention.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dental Hygiene Dilemma",
+      "artist": "Frank Zappa The Mothers",
+      "has_synced": false,
+      "path": "select/09_Dental_Hygiene_Dilemma_Frank_Zappa_The_Mothers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daytime Dilemma (Dangers of Love)",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/10_Daytime_Dilemma_(Dangers_of_Love)_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daytime Dilemma (Dangers of Love) [Demo]",
+      "artist": "Ramones",
+      "has_synced": false,
+      "path": "select/11_Daytime_Dilemma_(Dangers_of_Love)_[Demo]_Ramones.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Simeon’s Dilemma",
+      "artist": "WHY?",
+      "has_synced": true,
+      "path": "select/12_Simeon’s_Dilemma_WHY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dilemma (feat. Kelly Rowland & Ali) [Jermaine Dupri Remix]",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/13_Dilemma_(feat._Kelly_Rowland_&_Ali)_[Jermaine_Dupri_Remix]_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dilemma (Album Version)",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/14_Dilemma_(Album_Version)_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dilemma",
+      "artist": "Nelly feat. Kelly Rowland & Ali",
+      "has_synced": false,
+      "path": "select/15_Dilemma_Nelly_feat._Kelly_Rowland_&_Ali.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dilemma (Da Derrty Remix Explicit Version)",
+      "artist": "Ali",
+      "has_synced": false,
+      "path": "select/16_Dilemma_(Da_Derrty_Remix_Explicit_Version)_Ali.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dilemma",
+      "artist": "Nelly, Kelly Rowland",
+      "has_synced": true,
+      "path": "select/17_Dilemma_Nelly,_Kelly_Rowland.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Dilemma",
+      "artist": "Selena Gomez & The Scene",
+      "has_synced": true,
+      "path": "select/18_My_Dilemma_Selena_Gomez_&_The_Scene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DILEMMA",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_DILEMMA_INI.txt"
+    }
+  ]
+}
